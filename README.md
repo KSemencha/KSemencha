@@ -1,6 +1,6 @@
 - 👋Hi, I’m Ksenia Semencha.
 - 👀 I’m interested in business analytics and data visualization.
-- 🌱 I’m currently learning SQL, Python & BI.
+- 🌱 I’m currently learning SQL, Python & BI. Like UX research.
 - 💞️ I’m looking to collaborate on: I haven't decided yet. Write if you are interested in something.
 - 📫 How to reach me: https://t.me/XSemencha 
 - 😄 Pronouns: I'm a woman.
